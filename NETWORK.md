@@ -1,10 +1,11 @@
-# Zion Quantum Readiness
+# 🔗 Zion App Network
 
-Post-quantum cryptography readiness assessment.
+Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
-- Related: [quantum-safe-migrator](https://github.com/Zion-support/quantum-safe-migrator) · [zion-security-shield](https://github.com/Zion-support/zion-security-shield) · [cybersecurity-risk-assessment](https://github.com/Zion-support/cybersecurity-risk-assessment) · [zion-ai-compliance-checker](https://github.com/Zion-support/zion-ai-compliance-checker)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+**Related apps:** [quantum-safe-migrator](https://github.com/Zion-support/quantum-safe-migrator) · [ai-readiness-assessment](https://github.com/Zion-support/ai-readiness-assessment) · [zion-ai-readiness-quiz](https://github.com/Zion-support/zion-ai-readiness-quiz)
